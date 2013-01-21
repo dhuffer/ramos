@@ -1,4 +1,4 @@
 ramos
 =====
 
-Run an Entire OS from Ramdisk
+Run an Entire Linux OS from Ramdisk
